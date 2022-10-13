@@ -6,3 +6,7 @@
 
 ![](./img/2.png)
 
+**Nota**: pensaba que con VS también había que apuntar a *usuarios --> miUsuario --> git*, pero al final he acabado apuntando a *desktop --> VS2022-workspace --> PilotoPharma*, y dentro del mismo directorio del proyecto, se ha creado el subdirectorio de *.git*
+
+![](./img/3.png)
+
